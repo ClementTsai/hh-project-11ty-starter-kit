@@ -1,7 +1,7 @@
 ---
-title: "1945"
+title: "1950"
 description: "end of war"
-year: 1945
-override:center: [53.291489065300226,29.355468750000004]
+year: 1950
+override:center: [36.1733569352216,101.77734374999999]
 ---
-This is the start of the war. 
+This is the end of the war. 
