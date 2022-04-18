@@ -1,102 +1,25 @@
 ---
-title: "Style Demo"
-description: 'A demo of the "Page" template and kitchen sink sample of styled elements.'
+title: "Major Factions and Figures"
+description: 'A short introduction to the main factions that took part in the Chinese Civil War and the key figures that oversaw the conflict'
 ---
-
-> Credit for the kitchen sink elements to the ["Just the Docs"](https://github.com/pmarsceill/just-the-docs) project by [pmarsceill](https://github.com/pmarsceill), and to the original author of the starterkit.
-
-# Introduction
-
-Most of your time on this project will be spent writing in markdown. This page lives here as a reminder of how to write in markdown. Please note that I've appended a brief discussion of how to use footnotes here.  
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](/about).
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require("./lang/" + l);
-  return true;
-};
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-#### Header 4
-
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-### There's a horizontal rule below this.
+![](https://i.ytimg.com/vi/ZxHWG4dwIoc/maxresdefault.jpg)
 
 ---
+<p align="center"><font size="10"><b>MAJOR FACTIONS</b></font></p>
 
-### Here is an unordered list:
 
-- Item foo
-- Item bar
-- Item baz
-- Item zip
+| <font size="5"> Parties </font>     | <font size="5"> Flag </font> | <font size="5"> Description </font> |
+| ----------- | ----------- | ------------| 
+| <font size="3"> Kuomintang (KMT) </font>      | <img src="https://i.imgur.com/HF3A0lU.png" alt="KMTFlag" width="100"/>| The Kuomintang (KMT), or sometimes referred to as the Guomindang (GMD), was a political party established by [Sun Yat-sen](https://en.wikipedia.org/wiki/Sun_Yat-sen) in 1894 in Honolulu, Republic of Hawaii. Originally known as the Revive China Society, the party transformed itself as part of the 1911 revolution that overthrew the ruling Qing dynasty. Eventually, in 1919, Sun Yat-sen re-purposed the party under the name of the Kuomintang. The party was succeeded by Chiang Kai-Shek who oversaw the [Northern Expedition](https://en.wikipedia.org/wiki/Northern_Expedition) to unite regional warlords under the banner of China. During the Second World War, the nationalists fought against the Japanese in the [Second Sino-Japanese War](https://en.wikipedia.org/wiki/Second_Sino-Japanese_War). While the Kuomintang were able to repel the Japanese, they were shortly defeated by the 1949s at the hands of the Chinese Communist Party in a gruelling civil war which saw the remnants of the Kuomintang withdraw to Taiwan.|
+| <span style="color:white">.</span>| <span style="color:white">.</span>| <span style="color:white">.</span>|
+| <font size= "3"> Chinese Communist Party (CCP) </font>   | <img src="https://i.imgur.com/Ly1KnRH.png" alt="CCPFlag" width="100"/>        |  The Chinese Communist Party (CCP), officially known as the Communist Party of China (CPC), was founded in 1921 by Chen Duxiu and Li Dazhao with the help of the Far Eastern Bureau of the Communist Party of the Soviet Union. Within its first years of operation, the CCP aligned itself with the Kuomintang until the [Shanghai Massacre](https://en.wikipedia.org/wiki/Shanghai_massacre#:~:text=The%20Shanghai%20massacre%20of%2012,conservative%20factions%20in%20the%20Kuomintang%20()) which Chiang Kai-Shek intended to purge the communists from China. The following years resulted in a brutal civil war between both political parties. Eventually, Mao Zedong rose to the forefront as the leader of the Chinese Communist Party by establishing a strong following with rural peasants with his land reform policies. During the Second Sino-Japanese War, both political parties momentarily put aside their differences to fight the invading Japanese. However, after their victory, the Chinese Civil War continued which saw the astounding victory of the CCP.|
+---
+<p align="center"><font size="10"><b>KEY FIGURES</b></font></p>
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small Image
-
-![](https://picsum.photos/200)
-
-### Large image
-
-![](https://picsum.photos/800/300)
-
-## Footnotes
-We use a [plugin](https://github.com/markdown-it/markdown-it-footnote) for rendering simple footnotes. It's not ideal but at lest youu can insert references here, which I find somewhat straightforward to do [using the technique described here](https://forums.zotero.org/discussion/93521/available-for-beta-testing-markdown-export-of-notes). Howver, it could be painful or at least awkward if you're using html format instead. 
+| <font size="5"> Figure </font>     | <font size="5"> Party </font> | <font size="5"> Description </font> |
+| ----------- | ----------- | ---------- |
+| <font size= "3"> Chiang Kai-shek </font>      | <img src="https://i.imgur.com/HF3A0lU.png" alt="KMTFlag" width="100"/>      | Chiang Kai-shek was born in the Qing Empire in October 1887. He was a Chinese Nationalist politician who, as a part of the Kuomintang, helped Sun Yat-sen overthrow the Beiyang government and reunify China. For much of his early days as a politician, he worked closely with both the nationalists and communists to solidify China’s unity by subjugating various warlords. However, midway through the Northern Expedition, the KMT-CCP alliance shattered and a civil war was triggered. As the head of a recovering China, Chiang Kai-shek was tasked with repelling the invading Japanese forces during the Second Sino-Japanese War as well as continuing his suppression of the communists. However, he and the Kuomintang were eventually defeated by the Communists Party in 1949. Withdrawing to the island of Taiwan, he served as the President of the Republic of China and the Director-General of the Kuomintang until his death in 1975. |
+| <span style="color:white">.</span>| <span style="color:white">.</span>| <span style="color:white">.</span>|
+| <font size= "3"> Sun Yat-sen </font>   | <img src="https://i.imgur.com/HF3A0lU.png" alt="KMTFlag" width="100"/>        | Born in 1866 in the Qing Empire, Sun Yat-sen is considered to be the “Father” of the Republic of China for his role in overthrowing the Qing Dynasty during the Xinhai Revolution. As one of the few 20th-century Chinese leaders revered by both the Mainland China and Taiwan, Sun Yat-sen’s political journey was a tumultuous one riddled with constant strife and exiles. His success in founding the Republic of China after the 1911 revolution and his contributions in forging an alliance between the Kuomintang and Chinese Communist Party during the 1920s demonstrates his capabilities as a leader. However, Sun Yat-sen died in March 1925 as a result of gallbladder cancer, and, as a result, was unable to see the Kuomintang unite the country under his successor, Chiang Kai-shek. |
+| <span style="color:white">.</span>| <span style="color:white">.</span>| <span style="color:white">.</span>|
+| <font size= "3"> Mao Zedong </font>   | <img src="https://i.imgur.com/Ly1KnRH.png" alt="CCPFlag" width="100"/> | Born in 1893 in the Qing Dynasty to a relatively prosperous peasant, Mao Zedong, commonly referred to as Chairman Mao, was a founding member of the Chinese Communist Party and was heavily influenced by the Xinhai Revolution of 1911 and the May Fourth Movement of 1919. He helped to found the Chinese Red Army, eventually becoming the head of the Chinese Community Party during the Long March which saw much of the manpower of the CCP dwindle under the violent suppression of the KMT. However, during the Second Sino-Japanese War, Mao Zedong and Chiang Kai-shek momentairy formed an alliance against the Japanese. After Japan’s surrender, the CCP and KMT resumed their conflict which ultimately saw Mao Zedong’s forces defeat the Nationalist government and assume control of China. |

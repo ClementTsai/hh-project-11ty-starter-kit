@@ -2,30 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/staging/two-column/</loc>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
 		
-    <lastmod>2022-03-08T23:45:50Z</lastmod>
+    <lastmod>2022-04-10T17:01:47Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/</loc>
+		
+    <lastmod>2022-03-09T19:24:37Z</lastmod>
 		
   </url>
   
   <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/</loc>
 		
-    <lastmod>2022-03-09T01:50:06Z</lastmod>
+    <lastmod>2022-03-09T19:24:37Z</lastmod>
 		
   </url>
   
   <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/</loc>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/staging/two-column/</loc>
 		
-    <lastmod>2022-03-09T03:21:07Z</lastmod>
+    <lastmod>2022-03-09T19:24:37Z</lastmod>
 		
   </url>
   
   <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/map/</loc>
 		
-    <lastmod>2022-03-09T04:12:31Z</lastmod>
-    
+    <lastmod>2022-03-09T20:34:25Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/map1/</loc>
+		
+    <lastmod>2022-03-30T18:29:24Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/end/</loc>
+		
+    <lastmod>2022-03-30T19:53:48Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/start/</loc>
+		
+    <lastmod>2022-03-30T19:54:05Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/all-map-layers.json</loc>
+		
+    <lastmod>2022-03-30T19:57:30Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/timeline-data.json</loc>
+		
+    <lastmod>2022-04-06T19:37:37Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/map2/</loc>
+		
+    <lastmod>2022-04-06T19:39:42Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/map3/</loc>
+		
+    <lastmod>2022-04-06T20:20:06Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/map4/</loc>
+		
+    <lastmod>2022-04-10T17:01:47Z</lastmod>
+		
   </url>
 </urlset>

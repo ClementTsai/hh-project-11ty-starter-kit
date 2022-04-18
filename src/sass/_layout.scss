@@ -5,7 +5,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: tdbc-color("background");
+  background-color: 		white/**tdbc-color("background")**/;
   color: $tdbc-color-body;
   font-family: $tdbc-font-family;
 }
