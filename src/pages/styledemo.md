@@ -2,7 +2,7 @@
 title: "Major Factions and Figures"
 description: 'A short introduction to the main factions that took part in the Chinese Civil War and the key figures that oversaw the conflict'
 ---
-![](https://i.ytimg.com/vi/ZxHWG4dwIoc/maxresdefault.jpg)
+![Picture of Mao Zedong and Chiang Kaishek](https://upload.wikimedia.org/wikipedia/commons/6/6f/1945_Mao_and_Chiang.jpg)
 
 ---
 <p align="center"><font size="10"><b>MAJOR FACTIONS</b></font></p>

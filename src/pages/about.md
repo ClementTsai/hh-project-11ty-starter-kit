@@ -2,6 +2,9 @@
 title: "China-Taiwan Conflict"
 description: "Why the two continue to fight."
 ---
+![](https://i.ytimg.com/vi/ZxHWG4dwIoc/maxresdefault.jpg)
+
+---
 ### Fall of the Qing
 After nearly three hundred years of imperial rule under the Qing dynasty, the 1911 revolution, or the Xinhai Revolution, brought an end to China’s two-thousand year long dynastic monarchy.[^1] Following the collapse of China’s monarchial government, the revolutionists, under the leadership of Sun Yat-sen, formed the new Republic of China which then appointed Yuan Shikai as its first president. However, Yuan Shikai wanted to restore the hereditary monarchy in China by declaring himself the Hongxian Emperor.[^2] Ultimately, his death and abdication in 1916 led to a massive fragmentation of the Chinese political system and a power struggle against multiple factions. 
 
