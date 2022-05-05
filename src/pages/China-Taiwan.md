@@ -1,8 +1,10 @@
 ---
 title: "China-Taiwan Conflict"
-description: "Why the two continue to fight."
+description: "Understanding the history of the Chinese Civil War and how it has contributed to the tension between China and Taiwan."
 ---
 ![](https://i.ytimg.com/vi/ZxHWG4dwIoc/maxresdefault.jpg)
+</br>
+<p align="justify">At the turn of the twentieth century, numerous revolutions and calls for reformations broke out across the Qing Empire. Unable to suppress the people, China's dynastic government fell apart, leaving a massive power vacuum. The fall of the Qing dynasty not only marked the end of China's dynastic government, but also allowed for various ideologies to be nurtured and flourish. However, as a result, the rise of new ideologies also gave rise to new powerful factions which sought to wrangle control. These factions, though worked together to overthrow the Qing Dynasty and repel the Japanese invasion, fought against one another. However, with the withdrawal of the nationalists forces to the island of Taiwan, the conflict between the communists and the nationalists still persists, culminating in the current tensions in the Taiwan strait.</p>
 
 ---
 ### Fall of the Qing
@@ -24,7 +26,12 @@ As the Kuomintang was the legal government of China at the time, they were force
 After resisting the invasion of Japanese forces, the two factions eventually returned to a full-scale war, with the Communist offensive in the Shandong Peninsula being largely successful.[^7] Ultimately, with the support of the people under communist-occupied lands and the CCP’s experience in guerilla warfare, much of the Kuomintang, which had already sustained heavy casualties during the Second Sino-Japanese War, were unable to resist. As a result, Chiang Kai-shek, the nationalist party, and the Kuomintang were forced to withdraw to the island of Taiwan while Mao Zedong proclaimed the founding of the People’s Republic of China in Beijing. 
 
 ### Aftermath
-Over the following years, the Chinese Communist Party sought to crush the remnants of the Kuomintang on the island of Taiwan. However, their attempts were thwarted by the United States who offered their full support for Chiang Kai-shek and the Kuomintang. After the Korean War, President Harry S. Truman issued for the United States Seventh Fleet to sail to the Taiwan Strait as part of his policy of containment against Communist influence. Thus, in the past few decades, both the CCP and KMT have declared themselves as the proper government of China. As such, tensions between Taiwan and China have become strained.
+Over the following years, the Chinese Communist Party sought to crush the remnants of the Kuomintang on the island of Taiwan. However, their attempts were thwarted by the United States who offered their full support for Chiang Kai-shek and the Kuomintang. After the Korean War, President Harry S. Truman issued for the United States Seventh Fleet to sail to the Taiwan Strait as part of his policy of containment against Communist influence. Thus, in the past few decades, both the CCP and KMT have declared themselves as the proper government of China. As such, tensions between Taiwan and China have become strained. 
+
+### Why the Conflict Remains Relevant
+As both the Taiwanese and Chinese government recognize themselves as the legitimate government of China's mainland, tensions have grown over the past few decades. While government of the People's Republic of China affirms that Taiwan is part of China, frequent disagreements have let to large amount of arms placed on either coasts. Moreover, with the United States defending Taiwan, tensions between the two nuclear powers have intensified. 
+
+On an economic scale, Taiwan is responsible for 92% of the world's most advanced semiconductor manufacturing capabilities. These semiconductor chips are used across multiple industries such as technology, appliances and medical equipment. A disruption in its process would damage the global supply chain and likely cause further production slowdowns and a subsequent economic slowdown.
 
 [^1]: Li, Xiaobing. A history of the modern Chinese army. University Press of Kentucky, 2007.
 https://books.google.ca/books?hl=en&lr=&id=svBt-hzD53AC&oi=fnd&pg=PT1&dq=Li,+Xiaobing.+%5B2007%5D+(2007).+A+History+of+the+Modern+Chinese+Army.+University+Press+of+Kentucky.&ots=SUxpVVVBl5&sig=MW-qQC3CcGFRwt-DlvibdYHZQTA#v=onepage&q=Li%2C%20Xiaobing.%20%5B2007%5D%20(2007).%20A%20History%20of%20the%20Modern%20Chinese%20Army.%20University%20Press%20of%20Kentucky.&f=false

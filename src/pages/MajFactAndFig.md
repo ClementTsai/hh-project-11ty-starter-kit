@@ -4,6 +4,11 @@ description: 'A short introduction to the main factions that took part in the Ch
 ---
 ![Picture of Mao Zedong and Chiang Kaishek](https://upload.wikimedia.org/wikipedia/commons/6/6f/1945_Mao_and_Chiang.jpg)
 
+<p align="center"><em>“To me, victory means the beginning of real reconstruction — economic and political — free from outside interference.”</br>
+- Chiang Kai-shek</em></p>
+
+<p align="justify">Of the Chinese Civil War, the Kuomintang, often referred to as the Nationalists party, and the Chinese Communist Party were the largest factions that played a major role in the Chinese Civil War and its subsequent outcome. Moreover, the leaders of each of the respective parties, Chiang Kai-shek and Mao Zedong, decided how each event would unfold. This page will explore both Chinese parties as well as their leaders. Additionally, this page will also explore the "Father" of the Chinese republic that helped pave the way for both political parties to rise to prominence. </p>
+
 ---
 <p align="center"><font size="10"><b>MAJOR FACTIONS</b></font></p>
 
