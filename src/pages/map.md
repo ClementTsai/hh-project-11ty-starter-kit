@@ -6,7 +6,7 @@ override:center: [36.1733569352216,101.77734374999999]
 zoom: 3
 ---
 </br>
-<h1 align="center"><b>The Civil War from 1945-1949</b></h1>
+</br>
 <p align="justify"> This page will show a rough timeline of the territorial changes during the Chinese Civil War. By the end of the Second World War, and the Second Sino-Japanese War, much of China was controlled by the Kuomintang. The early success of the Kuomintang forced the Communist party to meet for negotiations and peace talks. However, by 1947, Communists forces that resumed their offensive in Manchuria were able to make significant gains. By 1948, the Nationalists lost their initiative and struggled against the Communist momentum. And, near the end of 1949, most of Mainland China was under communist control, forcing the remnants of the Kuomintang to neighbouring countries or across the Taiwan strait to Taiwan.</p>
 
 --- 
